@@ -6,10 +6,17 @@
 * {
 	margin:0 auto;
 }
+<<<<<<< HEAD
 /* @font-face {
  font-family: 'Helvetica CE 55 Roman', sans-serif;
  src: url('/fonts/helvetica_neue_ce_55_roman-webfont.eot');
  src: url('/fonts/helvetica_neue_ce_55_roman-webfont.eot?#iefix') format('embedded-opentype'), url('/fonts/helvetica_neue_ce_55_roman-webfont.woff2') format('woff2'), url('fonts/helvetica_neue_ce_55_roman-webfont.woff') format('woff'), url('fonts/helvetica_neue_ce_55_roman-webfont.ttf') format('truetype'), url('fonts/helvetica_neue_ce_55_roman-webfont.svg#helvetica_ce_55_romanregular') format('svg');
+=======
+@font-face {
+ font-family: 'helvetica_ce_55_romanregular';
+ src: url('fonts/helvetica_neue_ce_55_roman-webfont.eot');
+ src: url('fonts/helvetica_neue_ce_55_roman-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/helvetica_neue_ce_55_roman-webfont.woff2') format('woff2'), url('fonts/helvetica_neue_ce_55_roman-webfont.woff') format('woff'), url('fonts/helvetica_neue_ce_55_roman-webfont.ttf') format('truetype'), url('fonts/helvetica_neue_ce_55_roman-webfont.svg#helvetica_ce_55_romanregular') format('svg');
+>>>>>>> 432d9b5606c80fc451b52fe8ea156f26b2a70d15
  font-weight: normal;
  font-style: normal;
 }
