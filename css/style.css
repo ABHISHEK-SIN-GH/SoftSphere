@@ -334,8 +334,7 @@ ul.nav li.active a:before {
 	line-height:27px;
 }
 .home-carousel-left, .home-carousel-right {
-	background-color: #f48020;
-	color:#fff;
+	color: #f48020;
 	font-size: 32px;
 	height: 40px;
 	line-height: 40px;
@@ -356,6 +355,15 @@ ul.nav li.active a:before {
 }
 .home-carousel-right {
 	right:-32px;
+}
+.home-carousel-left:hover, .home-carousel-right:hover{
+	color: #fff;
+}
+.home-carousel-left:active, .home-carousel-right:active{
+	color: #fff;
+}
+.home-carousel-left:focus, .home-carousel-right:focus{
+	color: #fff;
 }
 #home-carousel:hover .home-carousel-left {
 	left:0;
