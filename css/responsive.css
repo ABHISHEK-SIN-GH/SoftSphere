@@ -204,24 +204,27 @@ top:10px;
 }
 @media all and (min-width: 299px) and (max-width: 479px) {
 #slider-video {
-    position: relative;
-	}
-	.slider-wrap{
+position: relative;
+}
+.slider-wrap{
 position:relative;
 }
+.carousel-caption h1{
+font-size:18px;
+}
 .carousel-caption h2{
-font-size:45px;
+font-size:40px;
 }
 .carousel-caption p {
-    font-size: 15px;
-    line-height: 25px;
-	}
-	.ab-sec-img img{
+font-size: 13.5px;
+line-height: 22px;
+}
+.ab-sec-img img{
 width:100%;
 }
 a.btn-down {
-    top: 65px;
-	}
+top: 65px;
+}
 #menu .nav {
  left:0%;
  float:left;
